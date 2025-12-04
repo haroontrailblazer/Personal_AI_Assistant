@@ -10,3 +10,4 @@ unstructured
 unstructured[all-docs]
 elevenlabs
 sentence-transformers
+google-genai
